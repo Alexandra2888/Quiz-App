@@ -1,6 +1,6 @@
 # quiz-app
 
-# You can see project live on https://app.netlify.com/sites/frosty-bardeen-0d8200/overview
+# You can see project live on https://frosty-bardeen-0d8200.netlify.app/
 
 ## Project setup
 ```
