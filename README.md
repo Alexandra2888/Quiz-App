@@ -1,3 +1,5 @@
+<img  width=“964” alt="quiz" src="https://github.com/Alexandra2888/Quiz-App/blob/master/collage.png">
+
 # quiz-app
 
 <h2># You can see project live on https://frosty-bardeen-0d8200.netlify.app/</h2>
